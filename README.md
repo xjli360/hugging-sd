@@ -1,6 +1,6 @@
 # HuggingSD
 
-# ！项目内侧中，将在内容更新完之后完全开放（项目地址：https://github.com/datawhalechina/hugging-sd）
+## ！！！项目内测中，将在内容更新完之后开放（项目地址：https://github.com/datawhalechina/hugging-sd）
 
 ### 项目简介
 
