@@ -1,5 +1,7 @@
 # HuggingSD
 
+# ！项目内侧中，将在内容更新完之后完全开放（项目地址：https://github.com/datawhalechina/hugging-sd）
+
 ### 项目简介
 
 受到[HuggingLLM](https://github.com/datawhalechina/hugging-llm)项目的启发，本项目想介绍以stable-diffusion为代表的视觉生成大模型的原理、使用和应用，降低使用门槛，让更多感兴趣的非专业人士能够无障碍使用SD创造价值。
