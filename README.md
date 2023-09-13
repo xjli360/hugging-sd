@@ -1,6 +1,5 @@
 # HuggingSD
-
-# ！项目内侧中，将在内容更新完之后完全开放（项目地址：https://github.com/datawhalechina/hugging-sd）
+本项目为临时仓库，最终项目地址：https://github.com/datawhalechina/hugging-sd
 
 ### 项目简介
 
@@ -32,32 +31,40 @@
 
 **二维视觉**
 - 1 stable-diffusion原理简介
-    - 1.1 介绍midjourney sd dall-e imagen等主流视觉生成大模型
-    - 1.2 ddpm算法
-- 2 stable-diffusion使用指南
-    - 2.1 提示词
-    - 2.2 文生图
-    - 2.3 图生图
-    - 2.4 反推与细节优化
-    - 2.5 LoRA与controlnet
+    - 1.1 视觉生成方法 （俞笛）
+    - 1.2 ddpm算法 （俞笛）
+- 2 stable-diffusion使用指南 *(开放选择)*
+    - 2.1 提示词 （宝华）
+      - 2.1.x 提示词工具（柏特）
+    - 2.2 文生图 （宝华）
+    - 2.3 图生图（包括image2image、inpainting、）
+    - 2.4 模型调优
+      - 2.4.1 模型基础知识
+      - 2.4.2 Textual Inversion
+      - 2.4.2 DreamBooth
+      - 2.4.3 LoRA（俞笛）
+      - 2.4.4 ControlNet（俞笛）
+    - 2.5 插件 (柏特)
     - 2.6 sdxl1.0与应用
 
-**三维视觉**
+
+**三维视觉**（孝杰）*(开放选择)*
 - 3 三维生成原理
-    - 3.1 介绍背景和应用（prolificdreamer magic3d ）
+    - 3.1 介绍背景和应用（prolificdreamer magic3d等 ）
     - 3.2 NeRF神经辐射场
     - 3.3 Dreamfusion原理
-    - 3.4 几何与纹理生成
+    - 3.4 Zero123原理
+    - 3.5 几何与纹理生成
 - 4 三维视觉应用
     - 4.1 blender软件使用简介
     - 4.2 趣味应用举例（建模自己的手办并3d打印..）
 
-**技术局限与未来发展**
+**技术局限与未来发展** *(开放选择)*
 - 5 目前局限
   - 5.1 二维生成：版权等
   - 5.2 三维生成：质量有待提升、生成时间长、渲染速度慢等
-- 6 目前局限
-  - 6.1 背景
+- 6 未来发展
+  - 6.1 社区生态（柏特）
   - 6.2 行业应用
       - 二维场景：营销作图、游戏作画、美图工具等
       - 三维场景：游戏、电影、虚拟资产、vision pro内容等
